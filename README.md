@@ -14,6 +14,29 @@ Phonetics
 | ------------------------------- | --------------------------------------------- |
 |  a - {ei} ay  | Drop Jaw and Bring it back up Jaw com - example - gray, say, complain. |
 |  b - {bi} bee |  Lips come together pronounce like 'BA' sound then go into the Vowel 'e' |
-|  c - {si} See | |
+|  c - {si} See | ccc  ccc consonent |
+|  d - | |
+|  e - | |
+|  f - | |
+|  g - | |
+|  f - | |
+|  i - | |
+|  J - | |
+|  k - | |
+|  L - | |
+|  m - | |
+|  n - | |
+|  o - | |
+|  p - | |
+|  q - | |
+|  r - | |
+|  s - | |
+|  t - | |
+|  u - | |
+|  v - | |
+|  w - | |
+|  x - | |
+|  y - | |
+|  y - | |
 
 
