@@ -10,9 +10,9 @@ Building Awareness
 
 Phonetics
 
-| Development                     | Production                          |
+| Alphabets                     | Phonetics                          |
 | ------------------------------- | --------------------------------------------- |
-| Use bind mounts to give your container access to your source code.  | Use volumes to store container data. |
+|  1. a - {ei} ay  | Drop Jaw and Bring it back up Jaw com example - gray, say, complain. |
 
 | ------------------------------- | --------------------------------------------- |
 |  1. a - {ei} ay    | Drop Jaw and Bring it back up Jaw com example - gray, say, complain. |
