@@ -63,3 +63,6 @@ Syllable Stress:
 
 High Frequency.
 https://www.youtube.com/watch?v=UDRCzPbM7qI
+
+MisPronounciation:
+https://www.youtube.com/watch?v=p9d1cy5-rjc
