@@ -1,9 +1,11 @@
 # us-accent
 
 Syllables -  A beat in a work
-Vowels and Consonants - 
+Vowels - A E I O U
+Consonants - All non Vowels
 Voiced -  which produces vibration in throat
 Unvoiced - It will not Produce any vibration in a throat.
+Exception for "Y" -  can ve Vowel ot Consonant.
 
 
 Building Awareness
