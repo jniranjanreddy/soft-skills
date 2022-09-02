@@ -38,6 +38,19 @@ Source:  https://www.youtube.com/watch?v=MvNdsUJDphU
 |  w - {}  double | |
 |  x - {eks} eks  | |
 |  y - {wai} why  | |
-|  y - {zi} zee  | |
+|  Z - {zi} zee  | |
 
 
+Tongue Twister - 
+P - peter piper Picked a Peck of Pickled Peppers
+    A Peck of Pickled Peppers Peter pipper picked
+    if Peter Piper Piked a Peck of Pickled peppers
+    Where's The Peck of pickled Peppers Peter Piper Picked
+    
+W - While We Were Walking
+    We were Watching Window
+    Washers Wash Washingtons' 
+    Windows with Warm 
+    Washing Water
+    
+R - 
