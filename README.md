@@ -57,6 +57,9 @@ W - While We Were Walking
     
 R - 
 
-Syllable Stress
+Syllable Stress:
 1. https://www.youtube.com/watch?v=9qC2eUW61Sw
 2. https://www.youtube.com/watch?v=xldH2rshQGc
+
+High Frequency.
+https://www.youtube.com/watch?v=UDRCzPbM7qI
