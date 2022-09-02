@@ -24,20 +24,20 @@ Source:  https://www.youtube.com/watch?v=MvNdsUJDphU
 |  i - {ai} eye | Example - White, Bike|
 |  J - {d3ei} Jay | Drop Jaw and Bring it back up Jaw com  |
 |  k - {Kei} kay  | Drop Jaw and Bring it back up Jaw com  |
-|  L - {3L} elle  | Bringing tip of the tongue |
-|  m - {}| |
-|  n - {}| |
-|  o - {}| |
-|  p - {}| |
-|  q - {}| |
-|  r - {}| |
-|  s - {}| |
-|  t - {}| |
-|  u - {}| |
-|  v - {}| |
-|  w - {}| |
-|  x - {}| |
-|  y - {}| |
-|  y - | |
+|  L - {3L} elle  | Bringing tip of the tongue upper |
+|  m - {em} emme  | |
+|  n - {en} enne  | |
+|  o - {ou} oh    | |
+|  p - {pi} pea   | |
+|  q - {kyu} cue  | |
+|  r - {ar}  are  | |
+|  s - {es}  ess  | |
+|  t - {ti}  Tea  | |
+|  u - {yu}  you  | |
+|  v - {vi}  vee  | |
+|  w - {}  double | |
+|  x - {eks} eks  | |
+|  y - {wai} why  | |
+|  y - {zi} zee  | |
 
 
