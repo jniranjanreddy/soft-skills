@@ -56,3 +56,7 @@ W - While We Were Walking
     Washing Water
     
 R - 
+
+Syllable Stress
+1. https://www.youtube.com/watch?v=9qC2eUW61Sw
+2. https://www.youtube.com/watch?v=xldH2rshQGc
