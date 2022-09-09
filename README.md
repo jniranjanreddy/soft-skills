@@ -85,8 +85,37 @@ W - While We Were Walking
     
 R - 
 
-Syllable Stress:
-1. https://www.youtube.com/watch?v=9qC2eUW61Sw
+Syllable Stress- Part-1
+    Source - https://www.youtube.com/watch?v=9qC2eUW61Sw
+    ===================
+2 - Syllable Words
+    ===================
+    
+    Stress Syllable-1                                           Stress Syllable-2
+    Noun                 -  Name, Place, Animal Thing      |     Verb           - Actions
+    Adjective            -  A word to describe a noun      |     Preposition    - In on between Among, of    
+    
+    Stress Syllable-1    -                                 |     Stress Syllable-2 
+     ----------------                                            ------------------
+    CONtest                                                      reCEIVE
+    REcord                                                       preSENT
+    RAiny                                                        BetWEEN
+ 
+3 - Syllable
+
+Two Types                               
+Stress syllable-1 if ends with            
+er || ly || y || Consonant                  
+--------                                     
+MAnager                                   
+SIlentely                                 
+Clarity
+Generous
+
+
+
+
+
 2. https://www.youtube.com/watch?v=xldH2rshQGc
 
 High Frequency.
