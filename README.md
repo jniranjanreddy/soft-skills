@@ -6,7 +6,7 @@ Consonants - All non Vowels
 Voiced -  which produces vibration in throat
 Unvoiced - It will not Produce any vibration in a throat.
 Exception for "Y" -  can ve Vowel ot Consonant.
-```
+
 
 
 Phonetics
@@ -42,7 +42,7 @@ Source:  https://www.youtube.com/watch?v=MvNdsUJDphU
 |  Z - {zi} zee  | |
 
 ## Vovel rules
-```
+
   - Long Short
 A - Ai - ah 
 E - ee - ah 
@@ -54,7 +54,7 @@ U - U  - aa
 set - short e
 bin - Short i
 cap - short a
-```
+
 ## Rule -2 magic E - ( CVC + Silent E)
 ## Vowel Sound is Long
 cap = Short a ; cape = long
@@ -123,3 +123,4 @@ https://www.youtube.com/watch?v=UDRCzPbM7qI
 
 MisPronounciation:
 https://www.youtube.com/watch?v=p9d1cy5-rjc
+```
