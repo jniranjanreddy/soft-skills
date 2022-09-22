@@ -1,20 +1,20 @@
-## Vovel rules
+## Vowel rules
 ## Short Vowels
 ```
-A - 'ah'  as in 'apple'  - hat
+A - 'ah'  as in 'apple'  - hat 
 E - 'eh'  as in 'eggs'   - peg
-I - 'ih'  as in 'insect' - ping
+I - 'ih'  as in 'insect' - pin
 O - 'awe' as in 'bog'    - got
 U - 'uh'  as in 'tug'    - yum 
 ```
 
-## Long Vowel rules - Sounds the name of the letter
+## Long Vowel rules - Sounds the name of the letter, if two vowels are in word, the second vowel is silent.
 ```
-A - Ai - ah 
-E - ee - ah 
-I - I  - ee
-O - O  - aa
-U - U  - aa
+A - A - Pale
+E - e - Meat
+I - I - Pile
+O - O - Mole
+U - U - Mule
 ```
 
 | | | | |
