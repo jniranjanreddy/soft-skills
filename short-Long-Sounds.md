@@ -18,6 +18,7 @@ U - U - Mule
 ```
 
 | | | | |
+|---|---|---|
 |Alphabet|short |Long|
 |A | ah | Long |
 
