@@ -2,7 +2,7 @@
 
 ## Vovel rules
 
-|   |   |   |
+
 |---|---|---|
 |Alphabet| Short | Long |
 
