@@ -1,6 +1,9 @@
 ## What is a noun?
 ```
-A noun is a word that refers to a person, place, or thing. The category of “things” may sound super vague, but in this case it means inanimate objects, abstract concepts, and activities. Phrases and other parts of speech can also behave like nouns and can be the subject in a sentence, as in Jogging is a fun exercise. Here, the verb jogging acts like a noun and is the subject of the sentence.
+A noun is a word that refers to a person, place, or thing. The category of “things” may sound super vague, 
+but in this case it means inanimate objects, abstract concepts, and activities. Phrases and other parts of speech can also 
+behave like nouns and can be the subject in a sentence, as in Jogging is a fun exercise. Here, the verb jogging acts like a noun and
+is the subject of the sentence.
 ```
 
 ## Types of Nouns: 
