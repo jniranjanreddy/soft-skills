@@ -6,9 +6,9 @@
 ## Collective - Group
 ## Countable Uncountable
 
-|--|--|
--------
-|Common Noun|Proper Noun|
+| Common Noun                     | Proper Noun                  |
+| ------------------------------- | --------------------------------------------- |
+| Use bind mounts to give your container access to your source code.  | Use volumes to store container data. |
 
 
 ```
