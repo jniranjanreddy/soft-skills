@@ -6,11 +6,19 @@
 ## Collective - Group
 ## Countable Uncountable
 
-| Common Noun                     | Proper Noun                  |
+| Common Noun  | Proper Noun  |
 | ------------------------------- | --------------------------------------------- |
-| Use bind mounts to give your container access to your source code.  | Use volumes to store container data. |
-
-
+|  man | Ganesh |
+|  Woman | gita |
+|  City  | Hamburg |
+| Country | India |
+| University | University of Texas |
+| Company  | Google |
+|  Restaurant | KFC |
+|  Religion | Buddhism |
+| Language | Italian |
+| Day  | Common Noun |
+| Mounth | October |
 ```
 A noun is a word that refers to a person, place, or thing. The category of “things” may sound super vague, 
 but in this case it means inanimate objects, abstract concepts, and activities. Phrases and other parts of speech can also 
