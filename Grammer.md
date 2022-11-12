@@ -7,6 +7,7 @@
 ## Countable Uncountable
 
 |--|--|
+-------
 |Common Noun|Proper Noun|
 
 
