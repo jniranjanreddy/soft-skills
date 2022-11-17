@@ -110,7 +110,7 @@ You cannot count uncountable nouns. You need to use "measure words" to quantify 
 
 Rule: We never use uncountable nouns with the indefinite article (a/an). Uncountable nouns are always singular.
 
-Examples: water, happiness, cheese
+Examples: water, happiness, cheese, Flour, Milk, juice coffee and salt
 
 Have you got some money?
 Air-conditioners use a lot of electricity.
