@@ -1,4 +1,11 @@
 # us-accent
+## Imp Links
+```
+IMP Links
+https://sentencedict.com/speck.html
+https://tophonetics.com/
+https://dictionary.cambridge.org/dictionary/english/
+```
 ```
 Syllables -  A beat in a work
 Vowels - A E I O U
