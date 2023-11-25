@@ -48,32 +48,6 @@
   ```
 
 
-## What is Pronoun?
-
-Pronoun is used before noun/pronoun
-| Subject | Object | Possessive | reflexive | WH-forms |
-|--|--|--|--|--|
-| I | me | my mine |myself | who |
-| we | us | our ours |our self/ourselves  | whom |
-| you | you | your yours | your self /your selves | whose |
-| they | them | their theirs |them self/them selves | which |
-| he | her | her her's |herself | to whom |
-| she | him | his his |himself |  |
-| It | it | its its |itself |  |
-
-
-```
-2. this, that, those, these, both, few, many, several, such, more, much, little, etc...
-3. somebody, someone, something, anybody, anything, anyone, everything, either, neither, each, each other, one another etc..
-```
-
-## What is a noun?
-## Mostly Catagorized like Below
-## Concrete Abstract
-## Common Noun Proper
-## Collective - Group
-## Countable Uncountable
-
 | Common Noun  | Proper Noun  |
 | ------------------------------- | --------------------------------------------- |
 |  man | Ganesh |
@@ -99,7 +73,7 @@ is the subject of the sentence.
 1. Proper Noun
 2. Common Noun
 3. Abstract Noun
-4. Concrete Nound
+4. Concrete Noun
 5. Countable Noun
 6. Uncountable Noun
 7. Collective Noun
@@ -212,6 +186,27 @@ Examples: cat food, blackboard, breakfast, full moon, washing machine, software
 Can we use the swimming pool?
 They stop work at sunset.
 Don't forget that check-out is at 12 noon.
+```
+
+
+
+## Pronoun?
+
+Pronoun is used before noun/pronoun
+| Subject | Object | Possessive | reflexive | WH-forms |
+|--|--|--|--|--|
+| I | me | my mine |myself | who |
+| we | us | our ours |our self/ourselves  | whom |
+| you | you | your yours | your self /your selves | whose |
+| they | them | their theirs |them self/them selves | which |
+| he | her | her her's |herself | to whom |
+| she | him | his his |himself |  |
+| It | it | its its |itself |  |
+
+
+```
+2. this, that, those, these, both, few, many, several, such, more, much, little, etc...
+3. somebody, someone, something, anybody, anything, anyone, everything, either, neither, each, each other, one another etc..
 ```
 
 
