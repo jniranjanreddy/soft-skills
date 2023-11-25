@@ -1,6 +1,6 @@
 ## Parts of Speech
 
-1. Noun - 
+1. Noun
 2. Pronoun
 3. Verb
 4. Adverb
@@ -25,7 +25,7 @@
          or - Tailor
          nt - Print, Paint
          y  - Money
-  4. Idea/Concept - Freedom, Love Kindness Happyness
+  4. Idea/Concept - Freedom, Love, Kindness and Happyness.
      ```
 
   ## 5 Types of Nouns
