@@ -62,9 +62,12 @@ Pronoun is used before noun/pronoun
 | It | it | its its |itself |  |
 
 
+```
+2. this, that, those, these, both, few, many, several, such, more, much, little, etc...
+3. somebody, someone, something, anybody, anything, anyone, everything, either, neither, each, each other, one another etc..
+```
 
 ## What is a noun?
-
 ## Mostly Catagorized like Below
 ## Concrete Abstract
 ## Common Noun Proper
