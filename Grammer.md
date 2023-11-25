@@ -69,7 +69,7 @@ is the subject of the sentence.
 ```
 
 ## Types of Nouns: 
-```
+
 1. Proper Noun
 2. Common Noun
 3. Abstract Noun
@@ -78,9 +78,9 @@ is the subject of the sentence.
 6. Uncountable Noun
 7. Collective Noun
 8. Componud Noun
-```
-##Proper Noun: 
-```
+
+## Proper Noun: 
+
 Proper nouns help distinguish a specific person, place, or thing. These words should be capitalized. 
 The names and titles of things are always proper nouns, such as the brand name Starbucks and the personal name Jenny.
 
