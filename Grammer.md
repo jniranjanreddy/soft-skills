@@ -49,12 +49,11 @@
 
 =============================================
 ## What is Pronoun?
-```
+
 Pronoun is used before noun/pronoun
-```
 | Subject | Object | Possessive | reflexive | WH-forms |
+|--|--|--|--|--|
 | I | me | my min |myself | who |
-|--|--|--|--|--| 
 
 ## What is a noun?
 
