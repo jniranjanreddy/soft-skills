@@ -47,7 +47,7 @@
         Ex: goodness, kindness, sympathy, anger, childhood, innocense, youth, boyhood, knowledge, power, wisdom, movement.
   ```
 
-=============================================
+
 ## What is Pronoun?
 
 Pronoun is used before noun/pronoun
