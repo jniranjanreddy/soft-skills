@@ -54,12 +54,12 @@ Pronoun is used before noun/pronoun
 | Subject | Object | Possessive | reflexive | WH-forms |
 |--|--|--|--|--|
 | I | me | my min |myself | who |
-| we | us | our ours |myself | who |
-| you | you | your yours |myself | who |
-| they | them | their theris |myself | who |
-| he | her | her her's |myself | who |
-| she | him | his his |myself | who |
-| It | it | its its |myself | who |
+| we | us | our ours |our self/ourselves  | whom |
+| you | you | your yours | your self /your selves | whose |
+| they | them | their theris |them self/them selves | which |
+| he | her | her her's |herself | to whom |
+| she | him | his his |himself |  |
+| It | it | its its |itself |  |
 
 
 
