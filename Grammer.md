@@ -54,6 +54,14 @@ Pronoun is used before noun/pronoun
 | Subject | Object | Possessive | reflexive | WH-forms |
 |--|--|--|--|--|
 | I | me | my min |myself | who |
+| we | us | our ours |myself | who |
+| you | you | your yours |myself | who |
+| they | them | their theris |myself | who |
+| he | her | her her's |myself | who |
+| she | him | his his |myself | who |
+| It | it | its its |myself | who |
+
+
 
 ## What is a noun?
 
