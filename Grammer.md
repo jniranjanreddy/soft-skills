@@ -10,7 +10,7 @@
 8. Interjunction
 
 ## Noun:
-  1. It shows name of a person, a Place a thing,
+  1. It shows name of a person, a Place a thing.
         Ex: Rama, Hyderabad and Pen..etc
   2. All the Professions
         Ex: Doctor, teacher and Beggar
@@ -31,11 +31,11 @@
   ## 5 Types of Nouns
   ```
   1. Proper Noun
-    Name of a Person or a country
-    Ex: Abdul Kalam, Australia
+       Name of a Person or a country
+       Ex: Abdul Kalam, Australia
 
   2. Commoun Noun
-     Ex: Girl, boy, Docker teacher, Lawyer.
+     Ex: Girl, boy, Doctor teacher, Lawyer.
 
   3. Material Noun
        Ex: Rice, Water, Coal, Milk Iron.
@@ -187,8 +187,31 @@ Can we use the swimming pool?
 They stop work at sunset.
 Don't forget that check-out is at 12 noon.
 ```
+## More about nouns from chatGpt.
+```
+mmon Nouns: These are general names for people, places, things, or ideas. Examples include "dog," "city," and "book."
 
+Proper Nouns: These refer to specific, unique entities and are capitalized. Examples include "John," "Paris," and "The Mona Lisa."
 
+Concrete Nouns: These are tangible, physical objects that you can perceive with your senses. Examples include "table," "car," and "apple."
+
+Abstract Nouns: These represent ideas, concepts, or qualities that are intangible and cannot be perceived through the senses. Examples include "love," "freedom," and "happiness."
+
+Countable Nouns: These are nouns that can be counted as discrete units. Examples include "cat," "chair," and "apple."
+
+Uncountable (Mass) Nouns: These are nouns that cannot be counted as individual units because they represent a mass or a substance. Examples include "water," "sand," and "knowledge."
+
+Collective Nouns: These refer to groups of people, animals, or things. Examples include "team," "herd," and "family."
+
+Compound Nouns: These are formed by combining two or more words to create a new noun. Examples include "toothbrush," "raincoat," and "firefly."
+
+Possessive Nouns: These indicate ownership or possession. They are formed by adding an apostrophe and "s" to the noun. Examples include "Sarah's book" and "the cat's tail."
+
+Gerunds: These are nouns formed by adding "-ing" to a verb. Example: "Swimming is my favorite activity."
+
+Infinitive Nouns: These are nouns formed by using the base form of a verb (to + verb). Example: "To learn is essential."
+```
+## -------------------------------- END OF NOUN ##--------------------------------------
 
 ## Pronoun?
 
