@@ -73,7 +73,6 @@ Remember that improvement takes time, so be patient with yourself and celebrate 
 
 Seek Feedback: After each presentation, ask for feedback from trusted friends, colleagues, or mentors. Constructive criticism can help you identify areas of improvement.
 
-Join Public Speaking Groups: Consider joining public speaking clubs like Toastmasters, where you can practice speaking in a supportive and constructive environment.
 
 Remember, public speaking skills are developed over time, so be patient with yourself. Keep challenging yourself to speak in various situations, and with each experience, you will become a more confident and effective public speaker.
 ```
