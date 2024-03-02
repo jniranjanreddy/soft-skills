@@ -72,12 +72,13 @@ is the subject of the sentence.
 
 1. Proper Noun
 2. Common Noun
-3. Abstract Noun
-4. Concrete Noun
-5. Countable Noun
-6. Uncountable Noun
-7. Collective Noun
+3. Material
+4. Collective Noun
+5. Abstract Noun
+6. countable Noun
+7. Uncountable Noun
 8. Componud Noun
+
 
 ## Proper Noun: 
 ```
