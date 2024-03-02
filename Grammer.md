@@ -60,7 +60,7 @@
 |  Religion | Buddhism |
 | Language | Italian |
 | Day  | Common Noun |
-| Mounth | October |
+| Month | October |
 ```
 A noun is a word that refers to a person, place, or thing. The category of “things” may sound super vague, 
 but in this case it means inanimate objects, abstract concepts, and activities. Phrases and other parts of speech can also 
