@@ -232,7 +232,20 @@ Pronoun is used before noun/pronoun
 2. this, that, those, these, both, few, many, several, such, more, much, little, etc...
 3. somebody, someone, something, anybody, anything, anyone, everything, either, neither, each, each other, one another etc..
 ```
+Types of Pronouns:
 
+```
+1. Personal Pronoun - He, She It, I, we, you and they.
+2. Possessive Pronoun - My, our, your, his, her, its, mine, ours theirs.
+3. Reflexive     - Myself, yourself, himself itself
+4. Demonstrative - This, that, these, those, such
+5. indefinite    - Somebody, nobody, anyone, anything, something, other, others 
+6. Distributive  - Each, Either, Neighter 
+7. Reciprocal    - Who, Which, Whose, What which
+8. Interrogaive  - Whom, Which, Whose, What, Which
+9. Relative      - Whom, Which, Whose, What, Which
+10. Numbers and quantity - Two, Three, Many, all, none, most, more
+```
 
 
 
