@@ -1,23 +1,14 @@
-name: Select Subject
+name: Bicep Workflow
+on: 
+  workflow_dispatch:
 
-on:
-    workflow_dispatch:
-        inputs:
-            subject:
-                description: 'Select a subject'
-                required: true
-                default: 'english'
-                type: choice
-                options:
-                    - english
-                    - science
-                    - social
-                    - maths
+jobs: 
+  build:
+    runs-on: ubuntu-latest
 
-jobs:
-    build:
-        runs-on: ubuntu-latest
-
-        steps:
-        - name: Display selected subject
-            run: echo "Selected subject is ${{ github.event.inputs.subject }}"
+    steps:
+    - uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+    - run: |
+        az webapp list --query "[?state=='Running']" -o table
