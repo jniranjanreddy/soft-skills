@@ -1,5 +1,4 @@
 name: Select Subject
-
 on:
     workflow_dispatch:
         inputs:
@@ -17,7 +16,6 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
-
         steps:
         - name: Display selected subject
             run: echo "Selected subject is ${{ github.event.inputs.subject }}"
