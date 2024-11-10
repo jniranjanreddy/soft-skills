@@ -16,15 +16,23 @@
         Ex: Doctor, teacher and Beggar
   3. If s word ended with,
      ```
-         ness - brightness
-         ment - arrangement
+         ness - brightness, kindness, happiness, weakness, darkness
+         ment - arrangement, agreement, excitement, development, movement
          hood - Childhood
-         tion - tuition
-         sion - tension
-         er   - Prayer
-         or - Tailor
+         tion / sion  - tuition action, suggestion, education, decision, vision, tension
+         ance / ence  - performance, importance, independence, difference
+         er / or    - Prayer,Tailor
+         acy - privacy, democracy, accuracy
+         ure - measure, pleasure, exposure
          nt - Print, Paint
-         y  - Money
+         ist,ism,  - artist, scientist, pianist, tourist, realism, optimism, criticism, tourism
+         ity/ty/y  - activity, reality, honesty, creativity, loyalty, Money
+         ship - friendship, leadership, membership, partnership
+     
+
+
+
+     
   4. Idea/Concept - Freedom, Love, Kindness and Happyness.
      ```
 
