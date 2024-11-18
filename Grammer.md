@@ -29,10 +29,7 @@
          ity/ty/y  - activity, reality, honesty, creativity, loyalty, Money
          ship - friendship, leadership, membership, partnership
      
-
-
-
-     
+   
   4. Idea/Concept - Freedom, Love, Kindness and Happyness.
      ```
 
@@ -46,7 +43,7 @@
      Ex: Girl, boy, Doctor teacher, Lawyer.
 
   3. Material Noun
-       Ex: Rice, Water, Coal, Milk Iron.
+       Ex: Rice, Water, Coal, Milk, Iron.
 
   4. Collective Noun,
        Ex: army, mob, Crowd, flock, cattle, herd, bunch and fleet.
@@ -254,7 +251,10 @@ Types of Pronouns:
 9. Relative      - Whom, Which, Whose, What, Which
 10. Numbers and quantity - Two, Three, Many, all, none, most, more
 ```
+# Verb
+```
 
+```
 
 
 
